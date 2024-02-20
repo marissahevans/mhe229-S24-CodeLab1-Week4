@@ -1,5 +1,3 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# Mouse based game with timer and points. 
 
-DO NOT LEAVE IT LIKE THIS!!!
-
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+Using the mouse to click sprites the score increases before the time runs out. At which point the high score table is loaded/updated and presented 
